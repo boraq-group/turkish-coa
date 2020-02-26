@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Chart template of turkish_coa -->
+    <record id="turkey_chart_of_account" model="account.chart.template">
+        <field name="name">Turkey-Chart Of Account</field>
+        <field name="bank_account_code_prefix">10200</field>
+        <field name="cash_account_code_prefix">10000</field>
+        <field name="transfer_account_code_prefix">100003</field>
+        <field name="code_digits">6</field>
+        <field name="currency_id" ref="base.TRY"/>
+    </record>
+</odoo>

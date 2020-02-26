@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+       <function model="account.chart.template" name="try_loading">
+            <value eval="[ref('turkish_coa.turkey_chart_of_account')]"/>
+        </function>
+    </data>
+</odoo>
