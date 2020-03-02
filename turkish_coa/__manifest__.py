@@ -2,18 +2,14 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Turkey - Accounting',
-    'version': '1.0',
+    'name': 'CoA Turkey Accounting',
+    'version': '13.0.0.0',
     'category': 'Localization',
     'description': """
-Turkey Localization
-==========================================================
-
-    Turkey Localization 
-    Create account and account group
-    """,
-    'author': 'boraq',
-    'maintainer':'www.boraq.com',
+CoA Turkish, Account Group, Formal Chart of Account for Turkey with Account groups and default journals with defaults accounts for the journals.
+""",
+    'author': 'Boraq-Group',
+    'maintainer':'https://boraq-group.com',
     'depends': ['account'],
     'data': [
         'data/l10n_tr_chart_data.xml',
@@ -26,7 +22,6 @@ Turkey Localization
         "data/account_group_parent.xml",
         "data/account_account_group.xml",
     ],
-    
     'installable': True,
     'application': True,
     'auto_install': True,
