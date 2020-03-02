@@ -1,249 +1,250 @@
-id,name,code,user_type_id/id,chart_template_id/id,reconcile
-"101000","Alınan Çekler","101000","account.data_account_type_liquidity","turkish_coa.turkey_chart_of_account","FALSE"
-"103001","Verilen Çek Ve Ödeme Emri (-)","103001","account.data_account_type_liquidity","turkish_coa.turkey_chart_of_account","FALSE"
-"108000","Di_er Hazır De_erler","108000","account.data_account_type_liquidity","turkish_coa.turkey_chart_of_account","FALSE"
-"110000","Hisse Senetleri","110000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"111000","Özel Kesim Tahvil Senet Ve Bonoları","111000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"112000","Kamu Kesimi Tahvil, Senet ve Bonoları","112000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"118000","Di_er Menkul Kıymetler","118000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"119000","Menkul Kıymetler De_er Dü_üklü_ü Kar_ılı_ı(-)","119000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"120000","Alıcılar","120000","account.data_account_type_receivable","turkish_coa.turkey_chart_of_account","TRUE"
-"121000","Alacak Senetleri","121000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","TRUE"
-"122000","Alacak Senetleri Reeskontu(-)","122000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"124000","Kazanılmamı_ Finansal Kiralama Faiz Gelirleri(-)","124000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"126000","Verilen Depozito ve Teminatlar","126000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"127000","Di_er Ticari Alacaklar","127000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"128000","_üpheli Ticari Alacaklar","128000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"129000","_üpheli Ticari Alacaklar Kar_ılı_ı","129000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"131000","Ortaklardan Alacaklar","131000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"132000","__tiraklerden Alacaklar","132000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"133000","Ba_lı Ortaklıklardan Alacaklar","133000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"135000","Personelden Alacaklar","135000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"136000","Di_er Çe_itli Alacaklar","136000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"137000","Di_er Alacak Senetleri Reeskontu(-)","137000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"138000","_üpheli Di_er Alacaklar","138000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"139000","_üpheli Di_er Alacaklar Kar_ılı_ı(-)","139000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"150000","_lk Madde Malzeme","150000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"151000","Yarı Mamuller","151000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"152000","Mamuller","152000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"153000","Ticari Mallar","153000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"158000","Stok De_er Dü_üklü_ü Kar_ılı_ı(-)","158000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"159000","Verilen Sipari_ Avansları","159000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"170000","Yıllara Yaygın _n_aat Ve Onarım Maliyetleri","170000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"179000","Ta_eronlara Verilen Avanslar","179000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"180000","Gelecek Aylara Ait Giderler","180000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"181000","Gelir Tahakkukları","181000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"190000","Devreden KDV","190000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"191000","_ndirilecek KDV","191000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"192000","Di_er KDV","192000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"193000","Pe_in Ödenen Vergiler Ve Fonlar","193000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"195000","__ Avansları","195000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"196000","Personel Avansları","196000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"197000","Sayım Ve Tesellüm Noksanları","197000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"198000","Di_er Çe_itli Dönen Varlıklar","198000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"199000","Di_er Dönen Varlıklar Kar_ılı_ı(-)","199000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"220000","Alıcılar","220000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"221000","Alacak Senetleri","221000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"222000","Alacak Senetleri Reeskontu(-)","222000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"224000","Kazaqnılmamı_ Finansal Kiralama Faiz Gelirleri(-)","224000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"226000","Verilen Depozito Ve Teminatlar","226000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"229000","_üpheli Ticari Alacaklar Kar_ılı_ı(-)","229000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"231000","Ortaklardan Alacaklar","231000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"232000","__tiraklerden Alacaklar","232000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"233000","Ba_lı Ortaklıklardan Alacaklar","233000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"235000","Personelden Alacaklar","235000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"236000","Di_er Çe_itli Alacaklar","236000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"237000","Di_er Alacak Senetleri Reeskontu(-)","237000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"240000","Ba_lı Menkul Kıymetler","240000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"241000","Ba_lı Menkul Kıymetler De_er Dü_üklü_ü Kar_ılı_ı(-)","241000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"242000","__tirakler","242000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"243000","__tiraklere Sermaye Taahhütleri(-)","243000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"244000","__tirakler Sermaye Payları De_er Dü_üklü_ü Kar_ılı_ı(-)","244000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"245000","Ba_lı Ortaklıklar","245000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"246000","Ba_lı Ortaklıklara Sermaye Taahhütleri(-)","246000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"247000","Ba_lı Ortaklıklar Sermaye Payları De_er Dü_üklü_ü Kar_ılı_ı(-)","247000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"248000","Di_er Mali Duran Varlıklar","248000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"249000","Di_er Mali Duran Varlıklar Kar_ılı_ı(-)","249000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"250000","Arazi Ve Arsalar","250000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"251000","Yer Altı Ve Yer Üstü Düzenleri","251000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"252000","Binalar","252000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"253000","Tesis, Makine Ve Cihazlar","253000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"254000","Ta_ıtlar","254000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"255000","Demirba_lar","255000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"256000","Di_er Maddi Duran Varlıklar","256000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"257000","Birikmi_ Amortismanlar(-)","257000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"258000","Yapılmakta Olan Yatırımlar","258000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"259000","Verilen Avanslar","259000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"260000","Haklar","260000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"261000","_erefiye","261000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"262000","Kurulu_ Ve Örgütlenme Giderleri","262000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"263000","Ara_tırma Ve Geli_tirme Giderleri","263000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"264000","Özel Maliyetler","264000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"267000","Di_er Maddi Olmayan Duran Varlıklar","267000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"268000","Birikmi_ Amortismanlar(-)","268000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"269000","Verilen Avanslar","269000","account.data_account_type_fixed_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"271000","Arama Giderleri","271000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"272000","Hazırlık Ve Geli_tirme Giderleri","272000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"277000","Di_er Özel Tükenmeye Tabi Varlıklar","277000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"278000","Birikmi_ Tükenme Payları(-)","278000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"279000","Verilen Avanslar","279000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"280000","Gelecek Yıllara Ait Giderler","280000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"281000","Gelir Tahakkukları","281000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"291000","Gelecek Yıllarda _ndirilecek KDV","291000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"292000","Di_er KDV","292000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"293000","Gelecek Yıllar _htiyacı Stoklar","293000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"294000","Elden Çıkarılacak Stoklar Ve Maddi Duran Varlıklar","294000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"295000","Pe_in Ödenen Vergi Ve Fonlar","295000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"297000","Di_er Çe_itli Duran Varlıklar","297000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"298000","Stok De_er Dü_üklü_ü Kar_ılı_ı(-)","298000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"299000","Birikmi_ Amortismanlar(-)","299000","account.data_account_type_current_assets","turkish_coa.turkey_chart_of_account","FALSE"
-"300000","Banka Kredileri","300000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"301000","Finansal Kiralama __lemlerinden Borçlar","301000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"302000","Ertelenmi_ Finansal Kiralama Borçlanma Maliyetleri(-)","302000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"303000","Uzun Vadeli Kredilerin Anapara Taksitleri Ve Faizleri","303000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"304000","Tahvil Anapara Borç, Taksit Ve Faizleri","304000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"305000","Çıkarılan Bonolar Ve Senetler","305000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"306000","Çıkarılmı_ Di_er Menkul Kıymetler","306000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"308000","Menkul Kıymetler _hraç Farkı(-)","308000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"309000","Di_er Mali Borçlar","309000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"320000","Satıcılar","320000","account.data_account_type_payable","turkish_coa.turkey_chart_of_account","TRUE"
-"321000","Borç Senetleri","321000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"322000","Borç Senetleri Reeskontu(-)","322000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"326000","Alınan Depozito Ve Teminatlar","326000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"329000","Di_er Ticari Borçlar","329000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"331000","Ortaklara Borçlar","331000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"332000","__tiraklere Borçlar","332000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"333000","Ba_lı Ortaklıklara Borçlar","333000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"335000","Personele Borçlar","335000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"336000","Di_er Çe_itli Borçlar","336000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"337000","Di_er Borç Senetleri Reeskontu(-)","337000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"340000","Alınan Sipari_ Avansları","340000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"349000","Alınan Di_er Avanslar","349000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"350000","350 Yıllara Yaygın _n_aat Ve Onarım Hakedi_leri Bedelleri","350000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"360000","Ödenecek Vergi Ve Fonlar","360000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"361000","Ödenecek Sosyal Güvenlük Kesintileri","361000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"368000","Vadesi Geçmi_, Ertelenmi_ Veya Taksitlendirilmi_ Vergi Ve Di_er Yükümlülükler","368000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"369000","Ödenecek Di_er Yükümlülükler","369000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"370000","Dönem Kârı Vergi Ve Di_er Yasal Yükümlülük Kar_ılıkları","370000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"371000","Dönem Kârının Pe_in Ödenen Vergi Ve Di_er Yükümlülükler(-)","371000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"372000","Kıdem Tazminatı Kar_ılı_ı","372000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"373000","Maliyet Giderleri Kar_ılı_ı","373000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"379000","Di_er Borç Ve Gider Kar_ılıkları","379000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"380000","Gelecek Aylara Ait Gelirler","380000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"381000","Gider Tahakkukları","381000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"391000","Hesaplanan KDV","391000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"392000","Di_er KDV","392000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"393000","Merkez Ve _ubeler Cari Hesabı","393000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"397000","Sayım Ve Tesellüm Fazlaları","397000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"399000","Di_er Çe_itli Yabancı Kaynaklar","399000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"400000","Banka Kredileri","400000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"401000","Finansal Kiralama __lemlerinden Borçlar","401000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"402000","Ertelenmi_ Finansal Kiralama Borçlanma Maliyetleri(-)","402000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"405000","Çıkarılmı_ Tahviller","405000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"407000","Çıkarılmı_ Di_er Menkul Kıymetler","407000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"408000","Menkul Kıymetler _hraç Farkı(-)","408000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"409000","Di_er Mali Borçlar","409000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"420000","Satıcılar","420000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"421000","Borç Senetleri","421000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"422000","Borç Senetleri Reeskontu(-)","422000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"426000","Alınan Depozito Ve Teminatlar","426000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"429000","Di_er Ticari Borçlar","429000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"431000","Ortaklara Borçlar","431000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"432000","__tiraklere Borçlar","432000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"433000","Ba_lı Ortaklıklara Borçlar","433000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"436000","Di_er Çe_itli Borçlar","436000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"437000","Di_er Borç Senetleri Reeskontu(-)","437000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"438000","Kamuya Olan Ertelenmi_ Veya Taksitlendirilmi_ Borçlar","438000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"440000","Alınan Sipari_ Avansları","440000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"449000","Alınan Di_er Avanslar","449000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"472000","Kıdem Tazminatı Kar_ılı_ı","472000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"479000","Di_er Borç Ve Gider Kar_ılıkları","479000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"492000","Gelecek Yıllara Ertelenmi_ Veya Terkin Edilecek KDV","492000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"493000","Tesise Katılma Payları","493000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"499000","Di_er Çe_itli Uzun Vadeli Yabancı Kaynaklar","499000","account.data_account_type_current_liabilities","turkish_coa.turkey_chart_of_account","FALSE"
-"500000","Sermaye","500000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"501000","Ödenmi_ Sermaye(-)","501000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"520000","Hisse Senetleri _hraç Primleri","520000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"521000","Hisse Senedi _ptal Kârları","521000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"522000","Maddi Duran Varlık Yeniden De_erlenme Artı_ları","522000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"524000","Maliyet Artı_ları Fonu","524000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"529000","Di_er Sermaye Yedekleri","529000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"540000","Yasal Yedekler","540000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"541000","Statü Yedekleri","541000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"542000","Ola_anüstü Yedekler","542000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"548000","Di_er Kâr Yedekleri","548000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"549000","Özel Fonlar","549000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"570000","Geçmi_ Yıllar Kârları","570000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"580000","Geçmi_ Yıllar Zararları(-)","580000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"590000","Dönem Net Kârı","590000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"591000","Dönem Net Zararı(-)","591000","account.data_account_type_equity","turkish_coa.turkey_chart_of_account","FALSE"
-"600000","Yurt _çi Satı_lar","600000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"601000","Yurt Dı_ı Satı_lar","601000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"602000","Di_er Gelirler","602000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"610000","Satı_tan _adeler(-)","610000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"611000","Satı_ _ndirimleri(-)","611000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"612000","Di_er _ndirimler","612000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"620000","Satılan Mamuller Maliyeti(-)","620000","account.data_account_type_direct_costs","turkish_coa.turkey_chart_of_account","FALSE"
-"621000","Satılan Ticari Mallar Maliyeti(-)","621000","account.data_account_type_direct_costs","turkish_coa.turkey_chart_of_account","FALSE"
-"622000","Satılan Hizmet Maliyeti(-)","622000","account.data_account_type_direct_costs","turkish_coa.turkey_chart_of_account","FALSE"
-"623000","Di_er Satı_ların Maliyeti(-)","623000","account.data_account_type_direct_costs","turkish_coa.turkey_chart_of_account","FALSE"
-"630000","Ara_tırma Ve Geli_tirme Giderleri(-)","630000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"631000","Pazarlama Satı_ Ve Da_ıtım Giderleri(-)","631000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"632000","Genel Yönetim Giderleri(-)","632000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"640000","__tiraklerden Temettü Gelirleri","640000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"641000","Ba_lı Ortaklıklardan Temettü Gelirleri","641000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"642000","Faiz Gelirleri","642000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"643000","Komisyon Gelirleri","643000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"644000","Konusu Kalmayan Kar_ılıklar","644000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"645000","Menkul Kıymet Satı_ Kârları","645000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"646000","Kambiyo Kârları","646000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"647000","Reeskont Faiz Gelirleri","647000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"648000","Enflasyon Düzeltme Kârları","648000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"649000","Di_er Ola_an Gelir Ve Kârlar","649000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"653000","Komisyon Giderleri(-)","653000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"654000","Kar_ılık Giderleri(-)","654000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"655000","Menkul Kıymet Satı_ Zararları(-)","655000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"656000","Kambiyo Zararları(-)","656000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"657000","Reeskont Faiz Giderleri(-)","657000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"658000","Enflasyon Düzeltmesi Zararları(-)","658000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"659000","Di_er Ola_an Gider Ve Zararlar(-)","659000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"660000","Kısa Vadeli Borçlanma Giderleri(-)","660000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"661000","Uzun Vadeli Borçlanma Giderleri(-)","661000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"671000","Önceki Dönem Gelir Ve Kârları","671000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"679000","Di_er Ola_an Dı_ı Gelir Ve Kârlar","679000","account.data_account_type_revenue","turkish_coa.turkey_chart_of_account","FALSE"
-"680000","Çalı_mayan Kısım Gider Ve Zararları(-)","680000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"681000","Önceki Dönem Gider Ve Zararları(-)","681000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"689000","Di_er Ola_an Dı_ı Gider Ve Zararlar(-)","689000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"690000","Dönem Kârı Veya Zararı","690000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"691000","Dönem Kârı Vergi Ve Di_er Yasal Yükümlülük Kar_ılıkları(-)","691000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"692000","Dönem Net Kârı Veya Zararı","692000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"697000","Yıllara Yaygın _n_aat Ve Enflasyon Düzeltme Hesabı","697000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"698000","Enflasyon Düzeltme Hesabı","698000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"700000","Maliyet Muhasebesi Ba_lantı Hesabı","700000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"701000","Maliyet Muhasebesi Yansıtma Hesabı","701000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"710000","Direk _lk Madde Ve Malzeme Giderleri Hesabı","710000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"711000","Direkt _lk Madde Ve Malzeme Yansıtma Hesabı","711000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"712000","Direkt _lk Madde Ve Malzeme Fiyat Farkı","712000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"713000","Direkt _lk Madde Ve Malzeme Miktar Farkı","713000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"720000","Direkt __çilik Giderleri","720000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"721000","Direkt __çilik Giderleri Yansıtma Hesabı","721000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"722000","Direkt __çilik Ücret Farkları","722000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"723000","Direkt __çilik Süre Farkları","723000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"730000","Genel Üretim Giderleri","730000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"731000","Genel Üretim Giderleri Yansıtma Hesabı","731000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"732000","Genel Üretim Giderleri Bütçe Farkları","732000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"733000","Genel Üretim Giderleri Verimlilik Giderleri","733000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"734000","Genel Üretim Giderleri Kapasite Farkları","734000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"740000","Hizmet Üretim Maliyeti","740000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"741000","Hizmet Üretim Maliyeti Yansıtma Hesabı","741000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"742000","Hizmet Üretim Maliyeti Fark Hesapları","742000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"760000","Atra_tırma Ve Geli_tirme Giderleri","760000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"761000","Pazarlama Satı_ Ve Dagıtım Giderleri Yansıtma Hesabı","761000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"762000","Pazarlama Satı_ Ve Da_ıtım Giderleri Fark Hesabı","762000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"770000","Genel Yönetim Giderleri","770000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"771000","Genel Yönetim Giderleri Yansıtma Hesabı","771000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"772000","Genel Yönetim Gider Farkları Hesabı","772000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"780000","Finansman Giderleri","780000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"781000","Finansman Giderleri Yansıtma Hesabı","781000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"782000","Finansman Giderleri Fark Hesabı","782000","account.data_account_type_expenses","turkish_coa.turkey_chart_of_account","FALSE"
-"999999","Da_ıtılmamı_ Kâr / Zararlar","999999","account.data_unaffected_earnings","turkish_coa.turkey_chart_of_account","FALSE"
+id,name,code,user_type_id/id,chart_template_id/id,reconcile,group_id/id
+101000,Alınan Çekler,101000,account.data_account_type_liquidity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.1
+103001,Verilen Çek Ve Ödeme Emri (-),103001,account.data_account_type_liquidity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.101
+108000,Di_er Hazır De_erler,108000,account.data_account_type_liquidity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.103
+110000,Hisse Senetleri,110000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.108
+111000,Özel Kesim Tahvil Senet Ve Bonoları,111000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.110
+112000,"Kamu Kesimi Tahvil, Senet ve Bonoları",112000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.111
+118000,Di_er Menkul Kıymetler,118000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.110
+119000,Menkul Kıymetler De_er Dü_üklü_ü Kar_ılı_ı(-),119000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.110
+120000,Alıcılar,120000,account.data_account_type_receivable,turkish_coa.turkey_chart_of_account,TRUE,turkish_coa.110
+121000,Alacak Senetleri,121000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,TRUE,turkish_coa.150
+122000,Alacak Senetleri Reeskontu(-),122000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.121
+124000,Kazanılmamı_ Finansal Kiralama Faiz Gelirleri(-),124000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.121
+126000,Verilen Depozito ve Teminatlar,126000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+127000,Di_er Ticari Alacaklar,127000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.126
+128000,_üpheli Ticari Alacaklar,128000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+129000,_üpheli Ticari Alacaklar Kar_ılı_ı,129000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+131000,Ortaklardan Alacaklar,131000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+132000,__tiraklerden Alacaklar,132000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+133000,Ba_lı Ortaklıklardan Alacaklar,133000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+135000,Personelden Alacaklar,135000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+136000,Di_er Çe_itli Alacaklar,136000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+137000,Di_er Alacak Senetleri Reeskontu(-),137000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.136
+138000,_üpheli Di_er Alacaklar,138000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.136
+139000,_üpheli Di_er Alacaklar Kar_ılı_ı(-),139000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.13
+150000,_lk Madde Malzeme,150000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.13
+151000,Yarı Mamuller,151000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+152000,Mamuller,152000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.151
+153000,Ticari Mallar,153000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.152
+158000,Stok De_er Dü_üklü_ü Kar_ılı_ı(-),158000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.153
+159000,Verilen Sipari_ Avansları,159000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.150
+170000,Yıllara Yaygın _n_aat Ve Onarım Maliyetleri,170000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.159
+179000,Ta_eronlara Verilen Avanslar,179000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.17
+180000,Gelecek Aylara Ait Giderler,180000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.179
+181000,Gelir Tahakkukları,181000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.180
+190000,Devreden KDV,190000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.181
+191000,_ndirilecek KDV,191000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+192000,Di_er KDV,192000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.191
+193000,Pe_in Ödenen Vergiler Ve Fonlar,193000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+195000,__ Avansları,195000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.193
+196000,Personel Avansları,196000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.195
+197000,Sayım Ve Tesellüm Noksanları,197000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+198000,Di_er Çe_itli Dönen Varlıklar,198000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+199000,Di_er Dönen Varlıklar Kar_ılı_ı(-),199000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+220000,Alıcılar,220000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.190
+221000,Alacak Senetleri,221000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+222000,Alacak Senetleri Reeskontu(-),222000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+224000,Kazaqnılmamı_ Finansal Kiralama Faiz Gelirleri(-),224000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+226000,Verilen Depozito Ve Teminatlar,226000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+229000,_üpheli Ticari Alacaklar Kar_ılı_ı(-),229000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+231000,Ortaklardan Alacaklar,231000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+232000,__tiraklerden Alacaklar,232000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+233000,Ba_lı Ortaklıklardan Alacaklar,233000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+235000,Personelden Alacaklar,235000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+236000,Di_er Çe_itli Alacaklar,236000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+237000,Di_er Alacak Senetleri Reeskontu(-),237000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+240000,Ba_lı Menkul Kıymetler,240000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+241000,Ba_lı Menkul Kıymetler De_er Dü_üklü_ü Kar_ılı_ı(-),241000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+242000,__tirakler,242000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+243000,__tiraklere Sermaye Taahhütleri(-),243000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+244000,__tirakler Sermaye Payları De_er Dü_üklü_ü Kar_ılı_ı(-),244000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+245000,Ba_lı Ortaklıklar,245000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+246000,Ba_lı Ortaklıklara Sermaye Taahhütleri(-),246000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+247000,Ba_lı Ortaklıklar Sermaye Payları De_er Dü_üklü_ü Kar_ılı_ı(-),247000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+248000,Di_er Mali Duran Varlıklar,248000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+249000,Di_er Mali Duran Varlıklar Kar_ılı_ı(-),249000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+250000,Arazi Ve Arsalar,250000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.131
+251000,Yer Altı Ve Yer Üstü Düzenleri,251000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.250
+252000,Binalar,252000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.251
+253000,"Tesis, Makine Ve Cihazlar",253000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.252
+254000,Ta_ıtlar,254000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.253
+255000,Demirba_lar,255000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.254
+256000,Di_er Maddi Duran Varlıklar,256000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.255
+257000,Birikmi_ Amortismanlar(-),257000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.250
+258000,Yapılmakta Olan Yatırımlar,258000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.257
+259000,Verilen Avanslar,259000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.258
+260000,Haklar,260000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.259
+261000,_erefiye,261000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+262000,Kurulu_ Ve Örgütlenme Giderleri,262000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+263000,Ara_tırma Ve Geli_tirme Giderleri,263000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+264000,Özel Maliyetler,264000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+267000,Di_er Maddi Olmayan Duran Varlıklar,267000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+268000,Birikmi_ Amortismanlar(-),268000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+269000,Verilen Avanslar,269000,account.data_account_type_fixed_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+271000,Arama Giderleri,271000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+272000,Hazırlık Ve Geli_tirme Giderleri,272000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+277000,Di_er Özel Tükenmeye Tabi Varlıklar,277000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+278000,Birikmi_ Tükenme Payları(-),278000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+279000,Verilen Avanslar,279000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+280000,Gelecek Yıllara Ait Giderler,280000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.2
+281000,Gelir Tahakkukları,281000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.280
+291000,Gelecek Yıllarda _ndirilecek KDV,291000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.281
+292000,Di_er KDV,292000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.291
+293000,Gelecek Yıllar _htiyacı Stoklar,293000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+294000,Elden Çıkarılacak Stoklar Ve Maddi Duran Varlıklar,294000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+295000,Pe_in Ödenen Vergi Ve Fonlar,295000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+297000,Di_er Çe_itli Duran Varlıklar,297000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+298000,Stok De_er Dü_üklü_ü Kar_ılı_ı(-),298000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+299000,Birikmi_ Amortismanlar(-),299000,account.data_account_type_current_assets,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+300000,Banka Kredileri,300000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.29
+301000,Finansal Kiralama __lemlerinden Borçlar,301000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+302000,Ertelenmi_ Finansal Kiralama Borçlanma Maliyetleri(-),302000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+303000,Uzun Vadeli Kredilerin Anapara Taksitleri Ve Faizleri,303000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+304000,"Tahvil Anapara Borç, Taksit Ve Faizleri",304000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+305000,Çıkarılan Bonolar Ve Senetler,305000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+306000,Çıkarılmı_ Di_er Menkul Kıymetler,306000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+308000,Menkul Kıymetler _hraç Farkı(-),308000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+309000,Di_er Mali Borçlar,309000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+320000,Satıcılar,320000,account.data_account_type_payable,turkish_coa.turkey_chart_of_account,TRUE,turkish_coa.32
+321000,Borç Senetleri,321000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.320
+322000,Borç Senetleri Reeskontu(-),322000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.321
+326000,Alınan Depozito Ve Teminatlar,326000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.320
+329000,Di_er Ticari Borçlar,329000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.326
+331000,Ortaklara Borçlar,331000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.326
+332000,__tiraklere Borçlar,332000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+333000,Ba_lı Ortaklıklara Borçlar,333000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+335000,Personele Borçlar,335000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+336000,Di_er Çe_itli Borçlar,336000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+337000,Di_er Borç Senetleri Reeskontu(-),337000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+340000,Alınan Sipari_ Avansları,340000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+349000,Alınan Di_er Avanslar,349000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.340
+350000,350 Yıllara Yaygın _n_aat Ve Onarım Hakedi_leri Bedelleri,350000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.340
+360000,Ödenecek Vergi Ve Fonlar,360000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.350
+361000,Ödenecek Sosyal Güvenlük Kesintileri,361000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+368000,"Vadesi Geçmi_, Ertelenmi_ Veya Taksitlendirilmi_ Vergi Ve Di_er Yükümlülükler",368000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+369000,Ödenecek Di_er Yükümlülükler,369000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+370000,Dönem Kârı Vergi Ve Di_er Yasal Yükümlülük Kar_ılıkları,370000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+371000,Dönem Kârının Pe_in Ödenen Vergi Ve Di_er Yükümlülükler(-),371000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+372000,Kıdem Tazminatı Kar_ılı_ı,372000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+373000,Maliyet Giderleri Kar_ılı_ı,373000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+379000,Di_er Borç Ve Gider Kar_ılıkları,379000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+380000,Gelecek Aylara Ait Gelirler,380000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.3
+381000,Gider Tahakkukları,381000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.380
+391000,Hesaplanan KDV,391000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.381
+392000,Di_er KDV,392000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.391
+393000,Merkez Ve _ubeler Cari Hesabı,393000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.39
+397000,Sayım Ve Tesellüm Fazlaları,397000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.39
+399000,Di_er Çe_itli Yabancı Kaynaklar,399000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.39
+400000,Banka Kredileri,400000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.39
+401000,Finansal Kiralama __lemlerinden Borçlar,401000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+402000,Ertelenmi_ Finansal Kiralama Borçlanma Maliyetleri(-),402000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+405000,Çıkarılmı_ Tahviller,405000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+407000,Çıkarılmı_ Di_er Menkul Kıymetler,407000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+408000,Menkul Kıymetler _hraç Farkı(-),408000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+409000,Di_er Mali Borçlar,409000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+420000,Satıcılar,420000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.32
+421000,Borç Senetleri,421000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.4
+422000,Borç Senetleri Reeskontu(-),422000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.4
+426000,Alınan Depozito Ve Teminatlar,426000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.4
+429000,Di_er Ticari Borçlar,429000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.4
+431000,Ortaklara Borçlar,431000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.4
+432000,__tiraklere Borçlar,432000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.331
+433000,Ba_lı Ortaklıklara Borçlar,433000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.43
+436000,Di_er Çe_itli Borçlar,436000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.43
+437000,Di_er Borç Senetleri Reeskontu(-),437000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.43
+438000,Kamuya Olan Ertelenmi_ Veya Taksitlendirilmi_ Borçlar,438000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.43
+440000,Alınan Sipari_ Avansları,440000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.43
+449000,Alınan Di_er Avanslar,449000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+472000,Kıdem Tazminatı Kar_ılı_ı,472000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+479000,Di_er Borç Ve Gider Kar_ılıkları,479000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+492000,Gelecek Yıllara Ertelenmi_ Veya Terkin Edilecek KDV,492000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+493000,Tesise Katılma Payları,493000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+499000,Di_er Çe_itli Uzun Vadeli Yabancı Kaynaklar,499000,account.data_account_type_current_liabilities,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+500000,Sermaye,500000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.44
+501000,Ödenmi_ Sermaye(-),501000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.500
+520000,Hisse Senetleri _hraç Primleri,520000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.501
+521000,Hisse Senedi _ptal Kârları,521000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.52
+522000,Maddi Duran Varlık Yeniden De_erlenme Artı_ları,522000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.52
+524000,Maliyet Artı_ları Fonu,524000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.522
+529000,Di_er Sermaye Yedekleri,529000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.52
+540000,Yasal Yedekler,540000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.52
+541000,Statü Yedekleri,541000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.540
+542000,Ola_anüstü Yedekler,542000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.541
+548000,Di_er Kâr Yedekleri,548000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.542
+549000,Özel Fonlar,549000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.540
+570000,Geçmi_ Yıllar Kârları,570000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.540
+580000,Geçmi_ Yıllar Zararları(-),580000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.57
+590000,Dönem Net Kârı,590000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.580
+591000,Dönem Net Zararı(-),591000,account.data_account_type_equity,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.590
+600000,Yurt _çi Satı_lar,600000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.591
+601000,Yurt Dı_ı Satı_lar,601000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.600
+602000,Di_er Gelirler,602000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.601
+610000,Satı_tan _adeler(-),610000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.602
+611000,Satı_ _ndirimleri(-),611000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.610
+612000,Di_er _ndirimler,612000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.611
+620000,Satılan Mamuller Maliyeti(-),620000,account.data_account_type_direct_costs,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.612
+621000,Satılan Ticari Mallar Maliyeti(-),621000,account.data_account_type_direct_costs,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.620
+622000,Satılan Hizmet Maliyeti(-),622000,account.data_account_type_direct_costs,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.621
+623000,Di_er Satı_ların Maliyeti(-),623000,account.data_account_type_direct_costs,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.622
+630000,Ara_tırma Ve Geli_tirme Giderleri(-),630000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.623
+631000,Pazarlama Satı_ Ve Da_ıtım Giderleri(-),631000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.630
+632000,Genel Yönetim Giderleri(-),632000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.631
+640000,__tiraklerden Temettü Gelirleri,640000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.632
+641000,Ba_lı Ortaklıklardan Temettü Gelirleri,641000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+642000,Faiz Gelirleri,642000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+643000,Komisyon Gelirleri,643000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+644000,Konusu Kalmayan Kar_ılıklar,644000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+645000,Menkul Kıymet Satı_ Kârları,645000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+646000,Kambiyo Kârları,646000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+647000,Reeskont Faiz Gelirleri,647000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+648000,Enflasyon Düzeltme Kârları,648000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+649000,Di_er Ola_an Gelir Ve Kârlar,649000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+653000,Komisyon Giderleri(-),653000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+654000,Kar_ılık Giderleri(-),654000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+655000,Menkul Kıymet Satı_ Zararları(-),655000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.64
+656000,Kambiyo Zararları(-),656000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+657000,Reeskont Faiz Giderleri(-),657000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+658000,Enflasyon Düzeltmesi Zararları(-),658000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+659000,Di_er Ola_an Gider Ve Zararlar(-),659000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+660000,Kısa Vadeli Borçlanma Giderleri(-),660000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.65
+661000,Uzun Vadeli Borçlanma Giderleri(-),661000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.66
+671000,Önceki Dönem Gelir Ve Kârları,671000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.66
+679000,Di_er Ola_an Dı_ı Gelir Ve Kârlar,679000,account.data_account_type_revenue,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.67
+680000,Çalı_mayan Kısım Gider Ve Zararları(-),680000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.67
+681000,Önceki Dönem Gider Ve Zararları(-),681000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.68
+689000,Di_er Ola_an Dı_ı Gider Ve Zararlar(-),689000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.68
+690000,Dönem Kârı Veya Zararı,690000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.68
+691000,Dönem Kârı Vergi Ve Di_er Yasal Yükümlülük Kar_ılıkları(-),691000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.69
+692000,Dönem Net Kârı Veya Zararı,692000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.69
+697000,Yıllara Yaygın _n_aat Ve Enflasyon Düzeltme Hesabı,697000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.69
+698000,Enflasyon Düzeltme Hesabı,698000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.69
+700000,Maliyet Muhasebesi Ba_lantı Hesabı,700000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.69
+701000,Maliyet Muhasebesi Yansıtma Hesabı,701000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.700
+710000,Direk _lk Madde Ve Malzeme Giderleri Hesabı,710000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.701
+711000,Direkt _lk Madde Ve Malzeme Yansıtma Hesabı,711000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.710
+712000,Direkt _lk Madde Ve Malzeme Fiyat Farkı,712000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.711
+713000,Direkt _lk Madde Ve Malzeme Miktar Farkı,713000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.710
+720000,Direkt __çilik Giderleri,720000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.710
+721000,Direkt __çilik Giderleri Yansıtma Hesabı,721000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.72
+722000,Direkt __çilik Ücret Farkları,722000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.721
+723000,Direkt __çilik Süre Farkları,723000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.72
+730000,Genel Üretim Giderleri,730000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.72
+731000,Genel Üretim Giderleri Yansıtma Hesabı,731000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.730
+732000,Genel Üretim Giderleri Bütçe Farkları,732000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.731
+733000,Genel Üretim Giderleri Verimlilik Giderleri,733000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.730
+734000,Genel Üretim Giderleri Kapasite Farkları,734000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.730
+740000,Hizmet Üretim Maliyeti,740000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.730
+741000,Hizmet Üretim Maliyeti Yansıtma Hesabı,741000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.74
+742000,Hizmet Üretim Maliyeti Fark Hesapları,742000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.741
+760000,Atra_tırma Ve Geli_tirme Giderleri,760000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.74
+761000,Pazarlama Satı_ Ve Dagıtım Giderleri Yansıtma Hesabı,761000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.76
+762000,Pazarlama Satı_ Ve Da_ıtım Giderleri Fark Hesabı,762000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.761
+770000,Genel Yönetim Giderleri,770000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.761
+771000,Genel Yönetim Giderleri Yansıtma Hesabı,771000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.77
+772000,Genel Yönetim Gider Farkları Hesabı,772000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.771
+780000,Finansman Giderleri,780000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.77
+781000,Finansman Giderleri Yansıtma Hesabı,781000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.78
+782000,Finansman Giderleri Fark Hesabı,782000,account.data_account_type_expenses,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.781
+999999,Da_ıtılmamı_ Kâr / Zararlar,999999,account.data_unaffected_earnings,turkish_coa.turkey_chart_of_account,FALSE,turkish_coa.78
+,,,,,,

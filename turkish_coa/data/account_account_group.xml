@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+     	<function name="write" model="account.account">
+		    <function name="search" model="account.account">
+		        <value eval="[('code', '=', '1000001')]"/>
+		    </function>
+		    <value eval="{'group_id': ref('turkish_coa.1'),'name':'Kasa'}"/>
+		</function>
+		<function name="write" model="account.account">
+		    <function name="search" model="account.account">
+		        <value eval="[('code', '=', '1020001')]"/>
+		    </function>
+		    <value eval="{'group_id': ref('turkish_coa.102'),'name':'Bankalar'}"/>
+		</function>
+		
+    </data>
+</odoo>

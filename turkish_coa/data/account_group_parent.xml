@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+	
+	<record id="turkish_coa.10" model="account.group">
+     	<field name="parent_id" ref="turkish_coa.1"/> 
+    </record>
+    <record id="turkish_coa.100" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.1"/> 
+    </record>
+    <record id="turkish_coa.101" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.100"/> 
+    </record>
+    <record id="turkish_coa.102" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.100"/> 
+    </record>
+    <record id="turkish_coa.103" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.100"/> 
+    </record>
+    <record id="turkish_coa.108" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.100"/> 
+    </record>
+    <record id="turkish_coa.11" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.1"/> 
+    </record>
+    <record id="turkish_coa.110" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+     <record id="turkish_coa.111" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+    <record id="turkish_coa.112" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+    <record id="turkish_coa.12" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.1"/> 
+    </record>
+     <record id="turkish_coa.120" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.12"/> 
+    </record>
+     <record id="turkish_coa.121" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.12"/> 
+    </record>
+     <record id="turkish_coa.126" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.12"/> 
+    </record>
+     <record id="turkish_coa.13" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+    <record id="turkish_coa.131" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.13"/> 
+    </record>
+    <record id="turkish_coa.136" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.13"/> 
+    </record>
+    <record id="turkish_coa.15" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+     	
+    </record><record id="turkish_coa.150" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.15"/> 
+    </record>
+    <record id="turkish_coa.151" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.15"/> 
+    </record>
+    <record id="turkish_coa.152" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.15"/> 
+    </record>
+    <record id="turkish_coa.153" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.15"/> 
+    </record>
+    <record id="turkish_coa.159" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.15"/> 
+    </record>
+    <record id="turkish_coa.17" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+     <record id="turkish_coa.179" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.17"/> 
+    </record>
+    <record id="turkish_coa.18" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+    <record id="turkish_coa.180" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.18"/> 
+    </record>
+    <record id="turkish_coa.181" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.18"/> 
+    </record>
+    <record id="turkish_coa.19" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.11"/> 
+    </record>
+    <record id="turkish_coa.190" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.19"/> 
+    </record>
+    <record id="turkish_coa.191" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.19"/> 
+    </record>
+    <record id="turkish_coa.193" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.19"/> 
+    </record>
+    <record id="turkish_coa.195" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.19"/> 
+    </record>
+    <record id="turkish_coa.23" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.2"/> 
+    </record>
+    <record id="turkish_coa.231" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.13"/> 
+    </record>
+    <record id="turkish_coa.25" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.2"/> 
+    </record>
+    <record id="turkish_coa.250" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.251" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.252" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.253" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.254" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.255" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.257" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.258" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.259" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.25"/> 
+    </record>
+    <record id="turkish_coa.28" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.2"/> 
+    </record>
+    <record id="turkish_coa.280" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.28"/> 
+    </record>
+    <record id="turkish_coa.281" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.28"/> 
+    </record>
+    
+    <record id="turkish_coa.29" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.2"/> 
+    </record>
+     <record id="turkish_coa.291" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.29"/> 
+    </record>
+    <record id="turkish_coa.3" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.29"/> 
+    </record>
+    <record id="turkish_coa.30" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+     <record id="turkish_coa.300" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.30"/> 
+    </record>
+     <record id="turkish_coa.32" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+     <record id="turkish_coa.320" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.32"/> 
+    </record>
+    <record id="turkish_coa.321" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.32"/> 
+    </record>
+     <record id="turkish_coa.326" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.32"/> 
+    </record>
+    <record id="turkish_coa.33" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+    <record id="turkish_coa.331" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.33"/> 
+    </record>
+    <record id="turkish_coa.34" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+    <record id="turkish_coa.340" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.34"/> 
+    </record>
+    <record id="turkish_coa.35" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+    <record id="turkish_coa.350" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.35"/> 
+    </record>
+    <record id="turkish_coa.38" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+    <record id="turkish_coa.381" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.380"/> 
+    </record>
+     <record id="turkish_coa.39" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.3"/> 
+    </record>
+   <record id="turkish_coa.391" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.39"/> 
+    </record>
+    <record id="turkish_coa.4" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.39"/> 
+    </record>
+     <record id="turkish_coa.40" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.4"/> 
+    </record>
+    <record id="turkish_coa.400" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.30"/> 
+    </record>
+    <record id="turkish_coa.43" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.4"/> 
+    </record>
+    <record id="turkish_coa.431" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.43"/> 
+    </record>
+    <record id="turkish_coa.44" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.4"/> 
+    </record>
+    <record id="turkish_coa.440" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.44"/> 
+    </record>
+    <record id="turkish_coa.50" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+    <record id="turkish_coa.500" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.50"/> 
+    </record>
+    <record id="turkish_coa.501" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.500"/> 
+    </record>
+    <record id="turkish_coa.52" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+    <record id="turkish_coa.522" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.52"/> 
+    </record>
+     <record id="turkish_coa.54" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+     <record id="turkish_coa.540" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.54"/> 
+    </record>
+    <record id="turkish_coa.541" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.54"/> 
+    </record>
+    <record id="turkish_coa.542" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.54"/> 
+    </record>
+    <record id="turkish_coa.57" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+    <record id="turkish_coa.570" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.57"/> 
+    </record>
+    <record id="turkish_coa.58" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+    <record id="turkish_coa.580" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.58"/> 
+    </record>
+    <record id="turkish_coa.59" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.5"/> 
+    </record>
+     <record id="turkish_coa.590" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.59"/> 
+    </record>
+     <record id="turkish_coa.591" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.59"/> 
+    </record>
+    <record id="turkish_coa.60" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.6"/> 
+    </record>
+    <record id="turkish_coa.600" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.60"/> 
+    </record>
+    <record id="turkish_coa.601" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.60"/> 
+    </record>
+    <record id="turkish_coa.602" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.60"/> 
+    </record>
+    <record id="turkish_coa.61" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.6"/> 
+    </record>
+     <record id="turkish_coa.610" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.61"/> 
+    </record>
+    <record id="turkish_coa.611" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.61"/> 
+    </record>
+    <record id="turkish_coa.612" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.61"/> 
+    </record>
+    <record id="turkish_coa.62" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.6"/> 
+    </record>
+    <record id="turkish_coa.620" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.62"/> 
+    </record>
+    <record id="turkish_coa.621" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.62"/> 
+    </record>
+    <record id="turkish_coa.622" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.62"/> 
+    </record>
+    <record id="turkish_coa.623" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.62"/> 
+    </record>
+    <record id="turkish_coa.63" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.6"/> 
+    </record>
+    <record id="turkish_coa.630" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.63"/> 
+    </record>
+    <record id="turkish_coa.631" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.63"/> 
+    </record>
+    <record id="turkish_coa.632" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.63"/> 
+    </record>
+    <record id="turkish_coa.64" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.6"/> 
+    </record>
+    <record id="turkish_coa.65" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.64"/> 
+    </record>
+    <record id="turkish_coa.66" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.64"/> 
+    </record>
+    <record id="turkish_coa.67" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.64"/> 
+    </record>
+    <record id="turkish_coa.68" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.64"/> 
+    </record>
+    <record id="turkish_coa.69" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.64"/> 
+    </record>
+    <record id="turkish_coa.70" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.700" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.70"/> 
+    </record>
+    <record id="turkish_coa.701" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.700"/> 
+    </record>
+     <record id="turkish_coa.71" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.710" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.71"/> 
+    </record>
+    <record id="turkish_coa.711" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.71"/> 
+    </record>
+    <record id="turkish_coa.72" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.720" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.72"/> 
+    </record>
+    <record id="turkish_coa.721" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.72"/> 
+    </record>
+    <record id="turkish_coa.73" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.730" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.73"/> 
+    </record>
+    <record id="turkish_coa.731" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.73"/> 
+    </record>
+    <record id="turkish_coa.74" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.740" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.74"/> 
+    </record>
+    <record id="turkish_coa.741" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.74"/> 
+    </record>
+    <record id="turkish_coa.75" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.750" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.75"/> 
+    </record>
+    <record id="turkish_coa.751" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.75"/> 
+    </record>
+    <record id="turkish_coa.76" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.760" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.76"/> 
+    </record>
+    <record id="turkish_coa.761" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.760"/> 
+    </record>
+    <record id="turkish_coa.77" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.7"/> 
+    </record>
+    <record id="turkish_coa.770" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.71"/> 
+    </record>
+    <record id="turkish_coa.771" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.71"/> 
+    </record>
+    <record id="turkish_coa.78" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.71"/> 
+    </record>
+    <record id="turkish_coa.780" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.78"/> 
+    </record>
+    <record id="turkish_coa.781" model="account.group">
+     	<field name="parent_id"  ref="turkish_coa.78"/> 
+    </record>
+    </data>
+</odoo>
