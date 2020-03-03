@@ -11,6 +11,7 @@ CoA Turkish, Account Group, Formal Chart of Account for Turkey with Account grou
     'author': 'Boraq-Group',
     'maintainer':'https://boraq-group.com',
     'depends': ['account'],
+    "images" : ['static/description/banner.png'],
     'data': [
         'data/l10n_tr_chart_data.xml',
         'data/account.group.csv',
