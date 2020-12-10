@@ -4,10 +4,9 @@
     <record id="turkey_chart_of_account" model="account.chart.template">
         <field name="property_account_receivable_id" ref="120000"/>
         <field name="property_account_payable_id" ref="320000"/>
-        <field name="property_account_expense_categ_id" ref="320000"/>
+        <field name="property_account_expense_categ_id" ref="170000"/>
          <field name="property_account_income_categ_id" ref="600000"/>
         <field name="income_currency_exchange_account_id" ref="646000"/>
         <field name="expense_currency_exchange_account_id" ref="656000"/>
-		<!-- <field name="default_pos_receivable_account_id" ref="100001" />-->   
-		 </record>
+    </record>
 </odoo>

@@ -3,7 +3,7 @@
 
 {
     'name': 'CoA Turkey Accounting',
-    'version': '13.0.0.0',
+    'version': '14.0.1.0',
     'category': 'Localization',
     'description': """
 CoA Turkish, Account Group, Formal Chart of Account for Turkey with Account groups and default journals with defaults accounts for the journals.
